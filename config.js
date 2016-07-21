@@ -1,0 +1,11 @@
+// host = '172.16.153.122';	// hostname or IP address
+host = '10.25.18.38';	// hostname or IP address
+//host = '192.168.5.101';	// hostname or IP address
+port = 8888;
+topic = 'mqtt/test';		// topic to subscribe to
+useTLS = false;
+username = null;
+password = null;
+// username = "jjolie";
+// password = "aa";
+cleansession = true;
